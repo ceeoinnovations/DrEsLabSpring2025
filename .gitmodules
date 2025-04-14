@@ -1,0 +1,6 @@
+[submodule "OpenMV_AI_Projects/FaceDetection/firmware_src"]
+	path = OpenMV_AI_Projects/FaceDetection/firmware_src
+	url = https://github.com/CodrinCrismariu/Custom_OpenMV_AI_Optimized
+[submodule "OpenMV_AI_Projects/FaceDetection/firmware_SRC"]
+	path = OpenMV_AI_Projects/FaceDetection/firmware_SRC
+	url = https://github.com/CodrinCrismariu/Custom_OpenMV_AI_Optimized
