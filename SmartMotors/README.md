@@ -1,1 +1,1 @@
-The goal of this work is to explore how we can leverage generative AI to produce code segments to run on Smart Motors. 
+The goal of this work is to explore how we can leverage generative AI to produce code segments to run on Smart Motors. The files from this work fall under five categories: testing and exploring functionality, implementing a menu, generating a table, creating a graph, and writing the startup code (in main.py). 
