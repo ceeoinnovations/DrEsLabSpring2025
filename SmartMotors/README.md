@@ -1,5 +1,11 @@
+# Smart Motor Code Development
+
+---
+
 ### Objective
 The goal of this work is to explore how we can leverage generative AI to produce code segments to run on Smart Motors. The files with _class or _function in their name can be imported to other files to create more interesting interfaces. 
+
+---
 
 ### Files
 The files from this work fall under five categories: testing and exploring functionality, implementing a menu, generating a table, creating a graph, and writing the startup code (in main.py). 
