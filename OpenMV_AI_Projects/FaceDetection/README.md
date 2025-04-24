@@ -2,6 +2,8 @@
 
 This project demonstrates how to use the AI Face Detection library on an OpenMV camera for face detection and angle tracking. The included example (`main_example.py`) shows how to capture images, detect faces, draw bounding boxes and keypoints, and calculate the angular offset of each detected face relative to the camera’s optical center.
 
+![camera_not_connected](./imgs/working.png)
+
 ---
 
 ## Overview

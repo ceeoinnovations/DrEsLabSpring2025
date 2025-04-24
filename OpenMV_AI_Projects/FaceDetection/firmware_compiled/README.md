@@ -12,15 +12,23 @@ Follow these steps to update your OpenMV camera with the custom firmware provide
 - Plug your OpenMV camera into your computer via USB
 - Launch the OpenMV IDE (it should automatically detect your camera)
 
+![camera_not_connected](../imgs/camera_not_connected.png)
+![camera_connected](../imgs/camera_connected.png)
+
 ### Step 3: Flash the Firmware
 - In the IDE, go to **Tools > Run Bootloader** (or click the flash icon in the toolbar)
 - When prompted, select the provided `firmware.bin` file from this folder
 - Confirm and wait while the firmware is flashed
 - Do **not** disconnect your camera during the process
 
+![camera_not_connected](../imgs/load_firmware.png)
+![camera_not_connected](../imgs/load_firmware2.png)
+
 ### Step 4: Verify the Firmware Update
 - After flashing, the IDE should reconnect automatically
 - Use the console or settings panel to confirm the new firmware version
+
+![camera_not_connected](../imgs/load_firmware_check.png)
 
 ---
 
