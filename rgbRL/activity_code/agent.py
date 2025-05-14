@@ -2,7 +2,7 @@
 File: agent.py
 Authors: Amanda-Lexine Sunga (Feb 2025)
          --> Modified from original activity code by Tanushree Burman
-Purpose: Handles all user interface aspects of activity
+Purpose: Handles behavior of agent (Smart Motor arm/servo) throughtout the episodes
 *** For Engineering with Artificial Intelligence Pre-College Program at Tufts University ***
 """
 
